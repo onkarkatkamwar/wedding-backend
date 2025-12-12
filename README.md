@@ -209,7 +209,7 @@ Contributions are welcome! Please follow these steps:
 
 For questions or issues:
 - Open an issue in the GitHub repository
-- Contact: [onkar.katkamwar@mitaoe.ac.in
+- Contact: onkar.katkamwar@mitaoe.ac.in
 
 ---
 
